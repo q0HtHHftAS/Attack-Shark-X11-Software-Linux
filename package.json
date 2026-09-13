@@ -1,6 +1,6 @@
 {
 	"name": "attack-shark-x11",
-  "version": "1.0.0",
+	"version": "1.0.0",
 	"description": "Desktop configuration app for the Attack Shark X11 gaming mouse.",
 	"desktopName": "attack-shark-x11",
 	"author": {
@@ -9,10 +9,10 @@
 	},
 	"license": "MIT",
 	"homepage": "https://github.com/q0HtHHftAS/Attack-Shark-X11-Software-Linux#readme",
- "repository": {
-  "type": "git",
-  "url": "git+https://github.com/q0HtHHftAS/Attack-Shark-X11-Software-Linux.git"
- },
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/q0HtHHftAS/Attack-Shark-X11-Software-Linux.git"
+	},
 	"bugs": {
 		"url": "https://github.com/q0HtHHftAS/Attack-Shark-X11-Software-Linux/issues"
 	},
