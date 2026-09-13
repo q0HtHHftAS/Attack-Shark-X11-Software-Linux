@@ -1,6 +1,6 @@
 # Attack Shark X11 Linux
 
-<img src="assets/mouse-x11.png" alt="Attack Shark X11" width="280">
+<img width="1410" height="908" alt="image" src="https://github.com/user-attachments/assets/00625c5b-63b9-48ae-aad1-c6474ea9bbf1" />
 
 Desktop app to configure your **Attack Shark X11 / R1** gaming mouse on Ubuntu — DPI, button remapping, macros, lighting, polling rate, battery. Built with Electron + Vue 3.
 
