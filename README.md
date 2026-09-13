@@ -54,6 +54,12 @@ curl -fsSL https://raw.githubusercontent.com/q0HtHHftAS/Attack-Shark-X11-Softwar
 
 ---
 
+## Credits
+
+Based on [attack-shark-x11-electron](https://github.com/dressedinblack5/attack-shark-x11-electron) by [dressedinblack5](https://github.com/dressedinblack5) — driver, protocol reverse-engineering, and the original Electron + Vue app this project builds on.
+
+---
+
 ## License
 
 MIT — see [LICENSE](LICENSE). Not affiliated with Attack Shark. Use at your own risk.
