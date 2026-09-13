@@ -1,6 +1,6 @@
 # Attack Shark X11 Linux
 
-![Attack Shark X11](assets/shark-x11-electron.png)
+<img src="assets/mouse-x11.png" alt="Attack Shark X11" width="280">
 
 Desktop app to configure your **Attack Shark X11 / R1** gaming mouse on Ubuntu — DPI, button remapping, macros, lighting, polling rate, battery. Built with Electron + Vue 3.
 
@@ -51,6 +51,12 @@ attack-shark-x11
 ```bash
 curl -fsSL https://raw.githubusercontent.com/q0HtHHftAS/Attack-Shark-X11-Software-Linux/main/install.sh | bash -s -- --uninstall
 ```
+
+---
+
+## Credits
+
+Based on [attack-shark-x11-electron](https://github.com/dressedinblack5/attack-shark-x11-electron) by [dressedinblack5](https://github.com/dressedinblack5) — driver, protocol reverse-engineering, and the original Electron + Vue app this project builds on.
 
 ---
 
